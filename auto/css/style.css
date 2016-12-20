@@ -1,0 +1,14 @@
+li{
+	display: inline;
+	text-decoration-style: none;
+}
+.header{
+	background: white;
+	position: fixed;
+	width: 100%;
+	margin-top: -100px;
+
+}
+body{
+	background: grey;
+}
